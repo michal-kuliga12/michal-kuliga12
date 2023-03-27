@@ -4,6 +4,7 @@
 <ul>
 <li>HTML / CSS</li>
 <li>JavaScript</li>
+  <li>TypeScript</li>
 <li>React.js</li>
 <li>Node + Express</li>
 <li>Next.js</li>

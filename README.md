@@ -9,6 +9,7 @@
 <li>Node + Express</li>
 <li>Next.js</li>
 <li>MySQL</li>
+  <li>Tailwind</li>
 </ul>
 
 

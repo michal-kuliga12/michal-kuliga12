@@ -2,10 +2,10 @@
 
 <h2>Tech stack:</h2>
 <ul>
-<li>C# .NET</li>
+<li>C# ASP.NET Core</li>
 <li>JavaScript</li>
-<li>HTML /CSS</li>
-<li>SQL</li>
+<li>HTML / CSS</li>
+<li>MS SQL Server</li>
 </ul>
 
 
